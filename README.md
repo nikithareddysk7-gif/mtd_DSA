@@ -1,2 +1,7 @@
 # mtd_DSA
 created with purpose of DSAworshope using  c programming  language trained by MID company
+git config --global user.name"",git config --global user.email"",git clone,touch main.py,git add .,git commit -m " ",git remaote -v,git push -u origin main
+1.git init,touch demo.txt,echo " ">demo.txt,git add demo.txt,git commit -m " ",git push\2.git branch feature-branch,git checkout feature-branch,touch f1.txt,git add f1.txt,git commit -m "added f1.txt",git checkout master,git merge feature-branch,git push\3.git checkout -b test,git checkout source,git add .,git stash save" this is main part",git push,git checkout main,git stash list,git stash apply,git commit -m "files added",git push\4.git init,git clone,cd\5.git fetch origin,git rebase origin/main,ls,git checkout test\6.git merge main --on-off -m "merge with main",git push\7.git tag v1.0,git tag,git push origin v1.0\8.git init,touch master.py,git add .,git commit -m " ",git checkout -b source-branch,touch file1.txt&&git add .&&git commit -m "commited file 1",ls,git log --oneline,git checkout master,git cherry-pick abc^..def,ls\9.git show(or)git log -n1\10.git log --author="nikitha" --since "2026-01-18" --until "2026-01-20"\11.git log -n5\12.git revert abc,ls
+touch is used to creat an empty file/echo is used to print text or write text into file\a repository(repo)is a floder or storage place where git keep and track all project files and their history.
+print("hello wrold");
+print("this is my first program")
